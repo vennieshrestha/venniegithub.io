@@ -1,0 +1,28 @@
+@charset "utf-8";
+.bg-dark {
+    background-color: #FCFCFC
+!important;
+    color: #FFFFFF;
+}
+.navbar-dark .navbar-nav .nav-link  {
+    color: #D800FF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.navbar-nav .nav-item {
+    width: 180px;
+    border: 1px solid #7633FF;
+    background-image: -webkit-linear-gradient(270deg,rgba(133,188,208,1.00) 0%,rgba(229,75,244,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(133,188,208,1.00) 0%,rgba(229,75,244,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(133,188,208,1.00) 0%,rgba(229,75,244,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(133,188,208,1.00) 0%,rgba(229,75,244,1.00) 100%);
+    margin-right: 4px;
+    margin-left: 4px;
+    text-align: center;
+    background-color: #ECECEC;
+    color: #0000BC;
+}
+header h2 {
+    color: #66BDEE;
+    font-family: Impact;
+    text-align: center;
+}
