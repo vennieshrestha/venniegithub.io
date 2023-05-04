@@ -8,8 +8,8 @@
   <title>VENNIE BRAND TEMPLATE</title>
   <!-- TemplateEndEditable -->
   <!-- Bootstrap -->
-  <link href="../css/bootstrap-4.4.1.css" rel="stylesheet">
-  <link href="../favorite-styles.css" rel="stylesheet" type="text/css">
+  <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+  <link href="favorite-styles.css" rel="stylesheet" type="text/css">
   <!-- TemplateParam name="VENNIE TEMPLATE" type="boolean" value="true" -->
   <!-- TemplateParam name="Vennietemplate" type="boolean" value="true" -->
   <meta name="description" content="My Template page">
@@ -24,10 +24,10 @@
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item"><a class="nav-link" href="../index.html">HOME <span class="sr-only">(current)</span></a> </li>
-			<li class="nav-item"><a href="../trip page.html" target="_self" class="nav-link">EVENT</a></li> 
-			<li class="nav-item"><a href="../brand.html" class="nav-link">BRAND</a></li>
-          <li class="nav-item"><a href="../research paper.html" class="nav-link">SEARCH</a></li> 
+          <li class="nav-item"><a class="nav-link" href="index.html">HOME <span class="sr-only">(current)</span></a> </li>
+			<li class="nav-item"><a href="trip page.html" target="_self" class="nav-link">EVENT</a></li> 
+			<li class="nav-item"><a href="brand.html" class="nav-link">BRAND</a></li>
+          <li class="nav-item"><a href="research paper.html" class="nav-link">SEARCH</a></li> 
         </ul>
         &nbsp;
         <ul class="navbar-nav mr-auto">
@@ -48,7 +48,7 @@
               <li data-target="#carouselExampleControls" data-slide-to="2"></li>
             </ol>
             <div class="carousel-inner">
-              <img class="d-block w-100" src="../images/logo.jpg" alt="First slide">
+              <img class="d-block w-100" src="images/logo.jpg" alt="First slide">
               <div class="carousel-caption d-none d-md-block">
                 <h4 class="alert-primary">&nbsp;<strong>VENNIE R.S, UNDERGRA</strong></h4>
                 <p class="alert-primary"><strong>INTERNATIONAL STUDENT (Mass Com)</strong></p>
@@ -118,9 +118,9 @@
       </div>
     </footer>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="../js/jquery-3.4.1.min.js"></script>
+    <script src="js/jquery-3.4.1.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="../js/popper.min.js"></script>
-    <script src="../js/bootstrap-4.4.1.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap-4.4.1.js"></script>
   </body>
 </html>
